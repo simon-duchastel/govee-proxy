@@ -1,0 +1,19 @@
+# Virtual Environment
+govee-env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Screen sessions
+*.screen
